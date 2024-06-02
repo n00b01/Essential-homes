@@ -4,7 +4,7 @@ import os
 from sms import send_sms
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = 'beverly@123'
+app.config['SECRET_KEY'] = '@g3tech'
 
 
 
